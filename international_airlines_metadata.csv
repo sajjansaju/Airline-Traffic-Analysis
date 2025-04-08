@@ -1,0 +1,17 @@
+Column Name,Data Type,Description
+,,
+Month,TEXT,"Month and year of the flight data (e.g., Sep-03)."
+In_Out,CHAR(1),"Status of flight: I for Inbound, O for Outbound."
+Australian_City,TEXT,Name of the Australian city involved in the flight.
+International_City,TEXT,Name of the international city involved in the flight.
+Airline,TEXT,Airline operating the flight.
+Route,TEXT,"Full flight route (e.g., SIN-DRW-ADL-SYD)."
+Port_Country,TEXT,Country where the international port is located.
+Port_Region,TEXT,"Region of the port country (e.g., SE Asia, NE Asia)."
+Service_Country,TEXT,Country served by the flight.
+Service_Region,TEXT,Region served by the flight.
+Stops,INTEGER,Number of stops the flight makes.
+All_Flights,INTEGER,Total number of flights for that route and month.
+Max_Seats,INTEGER,Total number of seats available across all flights.
+Year,INTEGER,Year of the flight data.
+Month_num,INTEGER,"Numeric representation of the month (e.g., 9 for September)."

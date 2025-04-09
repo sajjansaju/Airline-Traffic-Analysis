@@ -1,36 +1,38 @@
 # ✈️ International Airlines SQL Analysis 
 
+
 ## 🧩 Problem Statement
 
 As a Data Analyst working with a national aviation board, your mission is to analyze international air traffic trends between Australian cities and global destinations using historical flight data (2003–2020). The goal is to extract actionable insights that can help stakeholders understand international route performance, airline seat capacity, city-level contributions, and travel patterns across time, stops, and regions.
 
+
 ## 🎯 Project Objectives
 
-### 1. 📅 Explore Time-Based Trends
+**1.Explore Time-Based Trends**
 - Identify peak travel months and years.
 
-### 2. 🏆 Rank Top Airlines by Traffic and Capacity
+**2.Rank Top Airlines by Traffic and Capacity**
 - Find airlines with the highest flights and seat capacity.
 - Analyze the top airline performance trends over time.
 
-### 3. 🌍 Understand Route-Level Performance
+**3.Understand Route-Level Performance**
 - Identify top-performing international routes by flight volume.
 - Find least-served routes.
 - Analyze the number of direct flights on each route.
 
-### 4. 🔄 Compare Inbound vs Outbound Patterns
+**4.Compare Inbound vs Outbound Patterns**
 - Identify cities with a major outbound or inbound bias.
 - Visualize direction-based trends.
 
-### 5. 🗺️ Regional and Country-Level Analysis
+**5.Regional and Country-Level Analysis**
 - Rank regions and countries based on total flights and seat count.
 - Track growth in travel from Southeast Asia, Northeast Asia, etc.
 
-### 6. 🛑 Flight Stop Analysis
+**6.Flight Stop Analysis**
 - Analyze flight capacity and counts based on number of stops.
 - Compare direct vs. connecting routes in terms of performance.
 
-### 7. 🏙️ Australian City-Level Insights
+**7.Australian City-Level Insights**
 - Find cities with the most international connections.
 - Track yearly growth of outbound flights for each city.
 - Rank cities by route diversity.
@@ -259,13 +261,15 @@ order by route_diversity desc, australian_city asc;
 - **PostgreSQL** for SQL querying
 - **Markdown / GitHub** for documentation and version control
 
+## 📂 Dataset
+The dataset used for this project is publicly available on Kaggle:  
+**[Australian Flight Dataset (2003–2022) – by Gaurav Pandey](https://www.kaggle.com/datasets/pandeyg0811/australian-flight-dataset-2003-2022)**
 
 ## 🛡️ License
 
 This project is licensed under the CC BY-NC-ND 4.0 License.  
 Unauthorized reposting or modification is strictly prohibited.  
 [View License](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
 📩 For access or collaboration requests, please email me at: navakumarsajjan@gmail.com
 
 

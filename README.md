@@ -19,7 +19,7 @@ This project will showcase your SQL skills in answering real-world business ques
 ### 3. 🌍 Understand Route-Level Performance
 - Identify top-performing international routes by flight volume.
 - Find least-served routes.
-- Analyze average stops per route.
+- Analyze the number of direct flights on each route.
 
 ### 4. 🔄 Compare Inbound vs Outbound Patterns
 - Identify cities with a major outbound or inbound bias.

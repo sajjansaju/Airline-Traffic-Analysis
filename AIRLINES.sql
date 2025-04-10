@@ -184,3 +184,4 @@ count(distinct route) as route_diversity
 from airlines
 group by australian_city
 order by route_diversity desc, australian_city asc;
+

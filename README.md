@@ -5,6 +5,9 @@
 
 As a Data Analyst working with a national aviation board, your mission is to analyze international air traffic trends between Australian cities and global destinations using historical flight data (2003–2020). The goal is to extract actionable insights that can help stakeholders understand international route performance, airline seat capacity, city-level contributions, and travel patterns across time, stops, and regions.
 
+The dataset used for this project is publicly available on Kaggle:  
+**[Australian Flight Dataset (2003–2022) – by Gaurav Pandey](https://www.kaggle.com/datasets/pandeyg0811/australian-flight-dataset-2003-2022)**
+
 
 ## 🎯 Project Objectives
 
@@ -260,10 +263,6 @@ order by route_diversity desc, australian_city asc;
 ## 🛠️ Tools Used
 - **PostgreSQL** for SQL querying
 - **Markdown / GitHub** for documentation and version control
-
-## 📂 Dataset
-The dataset used for this project is publicly available on Kaggle:  
-**[Australian Flight Dataset (2003–2022) – by Gaurav Pandey](https://www.kaggle.com/datasets/pandeyg0811/australian-flight-dataset-2003-2022)**
 
 ## 🛡️ License
 

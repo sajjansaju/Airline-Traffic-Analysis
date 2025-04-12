@@ -9,7 +9,7 @@ The dataset used for this project is publicly available on Kaggle:
 **[Australian Flight Dataset (2003–2022) – by Gaurav Pandey](https://www.kaggle.com/datasets/pandeyg0811/australian-flight-dataset-2003-2022)**
 
 
-## 🎯 Project Objectives
+## 🎯Objectives
 
 **1.Explore Time-Based Trends**
 - Identify peak travel months and years.
